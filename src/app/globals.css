@@ -1,5 +1,4 @@
 /* Replace all existing imports with */
-@import "tailwindcss/preflight";
 @import "tailwindcss/utilities";
 @import "tailwindcss/base";
 @import "tailwindcss/components";
