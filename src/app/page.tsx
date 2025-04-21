@@ -2,7 +2,10 @@ import Terminal from '../components/Terminal';
 import ProjectCard from '../components/ProjectCard';
 import projectsData from '../data/projects.json';
 
-const projects: Project[] = projectsData as Project[];
+const projects: Project[] = projectsData.map((project) => ({
+  ...project,
+  id: project.id.toString(),
+})) as Project[];
 
 interface Project {
   id: string;
