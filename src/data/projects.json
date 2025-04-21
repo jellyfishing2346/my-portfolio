@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "title": "Stock Prediction API",
+      "description": "ML model predicting stock trends with 85% accuracy",
+      "tech": ["Python", "FastAPI", "TensorFlow"],
+      "github": "https://github.com/yourusername/stock-prediction"
+    },
+    {
+      "id": 2,
+      "title": "E-Commerce Backend",
+      "description": "Scalable REST API with JWT auth & PostgreSQL",
+      "tech": ["Node.js", "Express", "PostgreSQL"],
+      "demo": "https://ecommerce-demo.com"
+    }
+  ]
