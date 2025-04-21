@@ -1,5 +1,4 @@
 // src/pages/_app.tsx
-import { useState } from "react";
 import { ThemeProvider } from "next-themes";
 
 import type { AppProps } from "next/app";
