@@ -67,6 +67,6 @@ I’m a **Full-Stack Developer** (React + Node.js) and **Data Scientist** (Pytho
 
 ## **📫 Let’s Connect!**  
 - **Portfolio:** [your-portfolio.com](#)  
-- **LinkedIn:** [linkedin.com/in/your-profile](#)  
-- **Email:** [your.email@example.com](#)  
-- **Twitter:** [@your-handle](#)  
+- **LinkedIn:** [linkedin.com/in/faizan-khan234](linkedin.com/in/faizan-khan234)  
+- **Email:** [faizanakhan2003@gmail.com](mailto:faizanakhan2003@gmail.com)  
+- **Instagram:** [@faizizizan](https://www.instagram.com/faizizizan/)  
