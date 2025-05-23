@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Faizan Khan]  
+# 👋 Hi, I'm Faizan Khan
 ### **Full-Stack Developer & Data Scientist**  
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://your-portfolio-link.com)
@@ -57,9 +57,9 @@ I’m a **Full-Stack Developer** (React + Node.js) and **Data Scientist** (Pytho
 
 ## **📈 GitHub Stats**  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jellyfishing2346&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jellyfishing2346&layout=compact&theme=dark)  
 
 *(Delete if you don’t want stats.)*  
 
