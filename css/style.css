@@ -16,6 +16,14 @@ body {
     margin: 0 1rem;
     text-decoration: none;
   }
+
+  .nav-links a.active {
+    color: var(--primary);
+    font-weight: 600;
+}
+.nav-links a.active::after {
+    width: 100% !important;
+}
   
   #home {
     text-align: center;
@@ -30,9 +38,23 @@ body {
     padding: 0.5rem 1rem;
     border-radius: 5px;
   }
-  
-  .project-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 1rem;
-  }
+  /* Projects Page */
+.main-section {
+  padding: 6rem 5%;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+/* About Page */
+.about-container {
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
