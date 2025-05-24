@@ -61,10 +61,6 @@ I’m a **Full-Stack Developer** (React + Node.js) and **Data Scientist** (Pytho
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jellyfishing2346&layout=compact&theme=dark)  
 
-*(Delete if you don’t want stats.)*  
-
----
-
 ## **📫 Let’s Connect!**  
 - **Portfolio:** [your-portfolio.com](#)  
 - **LinkedIn:** [linkedin.com/in/faizan-khan234](linkedin.com/in/faizan-khan234)  

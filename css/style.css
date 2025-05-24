@@ -1,0 +1,38 @@
+/* style.css */
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    background: #333;
+    padding: 1rem;
+  }
+  
+  nav a {
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+  }
+  
+  #home {
+    text-align: center;
+    padding: 4rem 0;
+    background: #f4f4f4;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    background: #0077b5; /* LinkedIn blue */
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+  }
+  
+  .project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+  }
