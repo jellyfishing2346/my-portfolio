@@ -77,19 +77,7 @@
 
 </div>
 
-## 🔥 Contribution Streak 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117)
 
-### 💻 Most Used Languages
-```mermaid
-pie showData
-    title GitHub Language Distribution
-    "JavaScript" : 47.16
-    "TypeScript" : 27.14
-    "CSS" : 14.15
-    "HTML" : 10.95
-    "Python" : 0.06
-    "Other" : 0.54
 
 ---
 
