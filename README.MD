@@ -74,7 +74,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jellyfishing2346&layout=compact&theme=radical&hide_border=true)](https://github.com/jellyfishing2346)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jellyfishing2346&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/jellyfishing2346)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jellyfishing2346&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&hide=issues,contribs)](https://github.com/jellyfishing2346)
 
 </div>
 
