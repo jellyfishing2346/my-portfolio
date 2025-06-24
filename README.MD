@@ -1,103 +1,101 @@
-🚀 Faizan Khan's Portfolio: Full Stack & Data Science Wizardry ✨
-Table of Contents
+# 👨‍💻 Faizan Khan  
+### *Full Stack Architect ✨ | Data Scientist 📊 | AI Enthusiast*  
+**Building scalable web solutions** | **Transforming data into intelligence**  
 
-    Overview
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&width=500&lines=React+%7C+Next.js+%7C+TypeScript+Specialist;Python+%7C+TensorFlow+%7C+PyTorch+Pro;Cloud+%7C+DevOps+%7C+MLOps+Engineer" alt="Technical Expertise" />
+</p>
 
-    Key Features
+---
 
-    Technologies & Tools
+## 🛠 **Technical Arsenal**
 
-    Live Demo
+<div align="center">
 
-    Getting Started
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-    Customization: Make It Yours
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-    Contributing
+### **Data Science & AI/ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-    License
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-🌟 Overview
+</div>
 
-Welcome to my professional digital showcase! This repository houses the source code for my dynamic portfolio website, meticulously crafted to highlight my dual expertise as a Full Stack Engineer and Data Scientist. More than just a static resume, this platform serves as a living testament to my skills, a detailed narrative of my professional journey, and a curated gallery of impactful projects.
+---
 
-My objective is to present a holistic view of my capabilities, demonstrate my problem-solving prowess, and share my passion for architecting robust software solutions and extracting actionable insights from complex data.
-✨ Key Features
+## 🚀 **Featured Projects**
 
-    Responsive & Adaptive Design: Optimized for a seamless experience across all devices and screen sizes.
+<div align="center">
 
-    Modern UI/UX with Tailwind CSS: A clean, intuitive, and visually appealing interface built with the power of utility-first CSS.
+| Project | Technologies | Description | Highlights |
+|---------|-------------|-------------|------------|
+| **[AI Resume Analyzer](https://github.com/jellyfishing2346/AI-Powered-Resume-Analyzer)** | Python, NLP, FastAPI | Automated resume ranking system using advanced NLP techniques | 95% accuracy in candidate matching |
+| **[InsightDash](https://github.com/jellyfishing2346/InsightDash)** | React, D3.js, FastAPI | Real-time data visualization platform for business intelligence | Handles 10K+ data points/sec |
+| **[SmartCart](https://github.com/jellyfishing2346/SmartCart)** | LSTM, Yahoo Finance API | Predictive stock analysis system with 92% forecast accuracy | Integrated risk assessment models |
+| **[CodeCollab](https://github.com/jellyfishing2346/CodeCollab)** | Next.js, WebSockets | Real-time collaborative code editor with video chat | Supports 50+ languages |
 
-    Intuitive Navigation: Smooth scrolling and clear sectioning ensure an effortless browsing experience.
+</div>
 
-    Dual Expertise Showcase: Dedicated sections elegantly blend my Full Stack Development and Data Science projects and skills.
+---
 
-    Detailed Project Gallery: Each project features a concise overview, key technologies, and direct links to live demos and source code.
+## 🔍 **Currently Exploring**
+- **Generative AI**: Diffusion models, LLM fine-tuning
+- **Web3**: Smart contracts, decentralized applications
+- **Edge Computing**: IoT data processing at scale
+- **Quantum Machine Learning**: Hybrid quantum-classical models
 
-    Professional Experience Timeline: A clear, chronological overview of my career milestones and contributions.
+---
 
-    Direct Engagement: Easy-to-use contact form and integrated social media links for seamless connection.
+## 📈 **GitHub Analytics**
 
-    Performance Focused: Lightweight and efficient code for fast loading times.
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=jellyfishing2346&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
-🛠️ Technologies & Tools
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jellyfishing2346&layout=compact&theme=radical&hide_border=true)](https://github.com/jellyfishing2346)
 
-This portfolio is built on a robust and modern tech stack. Here's a glimpse of the tools that power it:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jellyfishing2346&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/jellyfishing2346)
 
-    Frontend Development: HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
+</div>
 
-    Version Control: Git, GitHub
+---
 
-    Design Principles: Responsive Web Design, User-Centric UI/UX
+## 📫 **Let's Connect & Collaborate**
 
-🌐 Live Demo
+<div align="center">
 
-Experience the live portfolio: Your Portfolio Live URL Here
-(Remember to replace https://your-portfolio-live-url.com with your actual deployed URL!)
-🚀 Getting Started
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-khan234/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jellyfishing2346)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jellyfishing2346.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizanakhan2003@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
-This portfolio is a static HTML website, making setup and deployment straightforward.
+</div>
 
-    Clone the Repository:
+---
 
-    git clone https://github.com/yourusername/your-portfolio-repo.git
-    cd your-portfolio-repo
+<div align="center">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=jellyfishing2346&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
 
-    (Replace yourusername/your-portfolio-repo with your actual GitHub repository URL.)
-
-    Open in Your Browser:
-    Simply open the index.html file directly in your web browser. No complex server setup required!
-
-✍️ Customization: Make It Yours
-
-This template is designed for easy personalization. Follow these steps to infuse your unique personal brand and content:
-
-    Edit index.html: Open the index.html file in your preferred code editor (e.g., VS Code, Sublime Text, Atom).
-
-    Personalize Content:
-
-        Your Name: Replace all instances of "Your Name" with your actual full name.
-
-        Professional Photo: Update the img src in the "Hero Section" with a link to your professional headshot.
-
-        About Me: Craft a compelling narrative that highlights your unique professional journey and expertise.
-
-        Skills: Precisely list your technical proficiencies in both full-stack and data science.
-
-        Projects: Replace the placeholder projects with your real work. Update titles, descriptions, technologies (the <span> tags), and crucially, the live demo and GitHub repository links.
-
-        Experience: Detail your professional work history, including roles, companies, dates, and key achievements.
-
-        Contact Information: Update the email and social media links (LinkedIn, GitHub) to your personal profiles. If you're using a backend service for the contact form, update the <form action="..."> attribute accordingly.
-
-    Deployment (Optional but Recommended):
-    Once customized, you can deploy this static website for free on platforms like GitHub Pages, Netlify, Vercel, or Firebase Hosting. This will make your portfolio globally accessible!
-
-🤝 Contributing
-
-While this is a personal portfolio, I always appreciate constructive feedback and suggestions for improvement! If you identify any issues, have ideas for enhancements, or notice a bug, please feel free to open an issue or reach out directly.
-⚖️ License
-
-This project is open-sourced under the MIT License.
-
-Created with ❤️ by your digital assistant.
+</div>
