@@ -70,11 +70,10 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=jellyfishing2346&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jellyfishing2346&layout=compact&theme=radical&hide_border=true)](https://github.com/jellyfishing2346)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jellyfishing2346&theme=dark)](https://git.io/streak-stats)  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jellyfishing2346&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&hide=issues,contribs)](https://github.com/jellyfishing2346)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jellyfishing2346&layout=compact&theme=radical)](https://github.com/jellyfishing2346)  
 
 </div>
 
