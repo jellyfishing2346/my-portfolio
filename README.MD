@@ -75,6 +75,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jellyfishing2346&layout=compact&theme=radical)](https://github.com/jellyfishing2346)  
 
+</div>
+
 ## 🔥 Contribution Streak 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117)
 
@@ -88,8 +90,6 @@ pie showData
     "HTML" : 10.95
     "Python" : 0.06
     "Other" : 0.54
-
-</div>
 
 ---
 
